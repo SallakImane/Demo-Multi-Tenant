@@ -1,4 +1,4 @@
-package com.anakiou.mt.main;
+package com.anakiou.mt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
